@@ -20,6 +20,7 @@ import sys
 from typing import Callable, Dict, List, Optional
 
 import nox
+import pandas
 
 
 # WARNING - WARNING - WARNING - WARNING - WARNING
